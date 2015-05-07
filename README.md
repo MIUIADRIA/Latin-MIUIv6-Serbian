@@ -1,4 +1,4 @@
-# MIUI-V6-Serbian
+# MIUI-V6-Serbian (Latin)
 Serbian (Latin) Translation For Xiaomi MIUI V6 Android Based OS
 
  MIUI Translation: **Dudjaa, BalcanGSM,....**
