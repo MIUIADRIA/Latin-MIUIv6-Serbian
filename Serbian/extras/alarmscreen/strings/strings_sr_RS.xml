@@ -1,4 +1,4 @@
 <strings>
-    <string name="slider_text" value=">>> Искључи >>>" />
-    <string name="snooze_message" value="Одгоди за %d мин."/>
+    <string name="slider_text" value=">>> Isključi >>>" />
+    <string name="snooze_message" value="Odloži za %d min."/>
 </strings>
