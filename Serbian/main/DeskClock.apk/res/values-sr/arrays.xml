@@ -926,66 +926,66 @@
         <item>C299</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Аларм ће звонити за мање од минут</item>
-        <item>Аларм ће звонити за %1$s</item>
-        <item>Аларм ће звонити за za %2$s</item>
-        <item>Аларм ће звонити за %1$s %2$s</item>
-        <item>Аларм ће звонити зa %3$s</item>
-        <item>Аларм ће звонити за %1$s %3$s</item>
-        <item>Аларм ће звонити за %2$s %3$s</item>
-        <item>Аларм ће звонити за %1$s %2$s %3$s</item>
+        <item>Alarm će zvoniti za manje od minut</item>
+        <item>Alarm će zvoniti za %1$s</item>
+        <item>Alarm će zvoniti za za %2$s</item>
+        <item>Alarm će zvoniti za %1$s %2$s</item>
+        <item>Alarm će zvoniti za %3$s</item>
+        <item>Alarm će zvoniti za %1$s %3$s</item>
+        <item>Alarm će zvoniti za %2$s %3$s</item>
+        <item>Alarm će zvoniti za %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="days">
-        <item>Јуче</item>
-        <item>Данс</item>
-        <item>Сутра</item>
+        <item>Juče</item>
+        <item>Dans</item>
+        <item>Sutra</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Једном</item>
-        <item>Дневно</item>
-        <item>Рдним данима</item>
-        <item>Пон-Пет</item>
-        <item>Прилагођено</item>
+        <item>Jednom</item>
+        <item>Dnevno</item>
+        <item>Rdnim danima</item>
+        <item>Pon-Pet</item>
+        <item>Prilagođeno</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Једном</item>
-        <item>Дневно</item>
-        <item>Пон-Пет</item>
-        <item>Прилагођено</item>
+        <item>Jednom</item>
+        <item>Dnevno</item>
+        <item>Pon-Pet</item>
+        <item>Prilagođeno</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>"Аларм ме је од овог тренутка постављен за мање од једне минуте."</item>
-        <item>"Аларм ме је од овог тренутка постављен за %1$s."</item>
-        <item>"Аларм ме је од овог тренутка постављен за %2$s."</item>
-        <item>"Аларм ме је од овог тренутка постављен за %1$s i %2$s."</item>
-        <item>"Аларм је постављен од овог тренутка за следећи број минута: %3$s."</item>
-        <item>"Аларм је од овог тренутка постављен за %1$s i %3$s."</item>
-        <item>"Аларм је од овог тренутка постављен за %2$s i %3$s."</item>
-        <item>"Аларм је постављен за %1$s, %2$s i %3$s.</item>
+        <item>"Alarm me je od ovog trenutka postavljen za manje od jedne minute."</item>
+        <item>"Alarm me je od ovog trenutka postavljen za %1$s."</item>
+        <item>"Alarm me je od ovog trenutka postavljen za %2$s."</item>
+        <item>"Alarm me je od ovog trenutka postavljen za %1$s i %2$s."</item>
+        <item>"Alarm je postavljen od ovog trenutka za sledeći broj minuta: %3$s."</item>
+        <item>"Alarm je od ovog trenutka postavljen za %1$s i %3$s."</item>
+        <item>"Alarm je od ovog trenutka postavljen za %2$s i %3$s."</item>
+        <item>"Alarm je postavljen za %1$s, %2$s i %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>1 минут</item>
-        <item>5 минута</item>
-        <item>10 минута</item>
-        <item>15 минута</item>
-        <item>20 минута</item>
-        <item>25 минута</item>
-        <item>30 минута</item>
+        <item>1 minut</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Никад</item>
-        <item>1 минут</item>
-        <item>5 минута</item>
-        <item>10 минута</item>
-        <item>15 минута</item>
-        <item>20 минута</item>
-        <item>25 минута</item>
-        <item>30 минута</item>
+        <item>Nikad</item>
+        <item>1 minut</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>"Не предузимај ништа"</item>
-        <item>"Одбаци"</item>
-        <item>"Одложи аларм"</item>
+        <item>"Ne preduzimaj ništa"</item>
+        <item>"Odbaci"</item>
+        <item>"Odloži alarm"</item>
     </string-array>
     <string-array name="alarm_count_entries">
         <item>1</item>
@@ -993,6 +993,6 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-        <item>Искључи.</item>
+        <item>Isključi.</item>
     </string-array>
 </resources> 

@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="auto_memory_clean">
-         <item>За 1. минут</item>
-         <item>За 5. минута</item>
-         <item>За 10. минута</item>
-         <item>Никад</item>
+         <item>Za 1. minut</item>
+         <item>Za 5. minuta</item>
+         <item>Za 10. minuta</item>
+         <item>Nikad</item>
      </string-array>
      <string-array name="preferred_app_entries">
-         <item>Покретач</item>
-         <item>Бирање</item>
-         <item>Поруке</item>
-         <item>Претраживач</item>
-         <item>Камера</item>
-         <item>Галерија</item>
-         <item>Музика</item>
-         <item>E-пошта</item>
+         <item>Pokretač</item>
+         <item>Biranje</item>
+         <item>Poruke</item>
+         <item>Pretraživač</item>
+         <item>Kamera</item>
+         <item>Galerija</item>
+         <item>Muzika</item>
+         <item>E-pošta</item>
      </string-array>
      <string-array name="alarm_repeat_type">
-        <item>Једном</item>
-        <item>Свакодневно</item>
-        <item>Радним данима</item>
-        <item>Викендом</item>
-        <item>Прилагођено</item>
+        <item>Jednom</item>
+        <item>Svakodnevno</item>
+        <item>Radnim danima</item>
+        <item>Vikendom</item>
+        <item>Prilagođeno</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Једном</item>
-        <item>Свакодневно</item>
-        <item>Викендом</item>
-        <item>Прилагођено</item>
+        <item>Jednom</item>
+        <item>Svakodnevno</item>
+        <item>Vikendom</item>
+        <item>Prilagođeno</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Након 1 минута</item>
-        <item>Након 5 минута</item>
-        <item>Након 10 минута</item>
-        <item>Никад</item>
+        <item>Nakon 1 minuta</item>
+        <item>Nakon 5 minuta</item>
+        <item>Nakon 10 minuta</item>
+        <item>Nikad</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
-        <item>15 секунди</item>
-        <item>30 секунди</item>
-        <item>1 минут</item>
-        <item>2 минута</item>
-        <item>5 минута</item>
-        <item>10 минута</item>
-        <item>Никад</item>
+        <item>15 sekundi</item>
+        <item>30 sekundi</item>
+        <item>1 minut</item>
+        <item>2 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>Nikad</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Високе перформансе</item>
-        <item>Балансирани</item>
+        <item>Visoke performanse</item>
+        <item>Balansirani</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
-        <item>Никад не вибрирај</item>
-        <item>Вибрација кад је звук утишан</item>
-        <item>Увек вибрирај</item>
+        <item>Nikad ne vibriraj</item>
+        <item>Vibracija kad je zvuk utišan</item>
+        <item>Uvek vibriraj</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Искључи</item>
-        <item>Укључи</item>
-        <item>"Не мењај"</item>
+        <item>Isključi</item>
+        <item>Uključi</item>
+        <item>"Ne menjaj"</item>
     </string-array>
 </resources>

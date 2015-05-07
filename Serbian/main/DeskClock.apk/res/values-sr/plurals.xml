@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d сек.</item>
-        <item quantity="one">%1$d секунда</item>
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sekunda</item>
     </plurals>
     <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d мин.</item>
-        <item quantity="one">1 минут</item>
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">1 minut</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Одложи за %d мин.</item>
-        <item quantity="one">Одложи за %d мин.</item>
+        <item quantity="other">Odloži za %d min.</item>
+        <item quantity="one">Odloži za %d min.</item>
     </plurals>
      <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d caти "</item>
-        <item quantity="one">"%1$d caт "</item>
+        <item quantity="other">"%1$d cati "</item>
+        <item quantity="one">"%1$d cat "</item>
     </plurals>
     <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d мин. "</item>
-        <item quantity="one">"%1$d мин. "</item>
+        <item quantity="other">"%1$d min. "</item>
+        <item quantity="one">"%1$d min. "</item>
     </plurals>
     <plurals name="timer_message_second">
-        <item quantity="other">%1$d сек.</item>
-        <item quantity="one">%1$d сек.</item>
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
     </plurals>
 </resources> 

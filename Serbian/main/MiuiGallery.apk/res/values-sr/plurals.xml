@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_has_cloud_image">
-       <item quantity="other">"Избрисати фотографије (%s) u cloud ?"</item>
-        <item quantity="one">"Избрисати фотографију (%s)u cloud ?"</item>
+       <item quantity="other">"Izbrisati fotografije (%s) u cloud ?"</item>
+        <item quantity="one">"Izbrisati fotografiju (%s)u cloud ?"</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Избрисати фотографије (%s)?</item>
-        <item quantity="one">Избрисати фотографију (%s)?</item>
+        <item quantity="other">Izbrisati fotografije (%s)?</item>
+        <item quantity="one">Izbrisati fotografiju (%s)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">"Избрисати видео записе (%s) у cloud ?"</item>
-        <item quantity="one">"Избрисати видео запис (%s) у cloud ?"</item>
+        <item quantity="other">"Izbrisati video zapise (%s) u cloud ?"</item>
+        <item quantity="one">"Izbrisati video zapis (%s) u cloud ?"</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">Избрисати видео записе (%s)?</item>
-        <item quantity="one">Избрисати видео запис (%s)?</item>
+        <item quantity="other">Izbrisati video zapise (%s)?</item>
+        <item quantity="one">Izbrisati video zapis (%s)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">"Избрисати фотографије (%s) локално и у cloud ?"</item>
-        <item quantity="one">"Избрисати фотографију (%s) локално и у cloud ?"</item>
+        <item quantity="other">"Izbrisati fotografije (%s) lokalno i u cloud ?"</item>
+        <item quantity="one">"Izbrisati fotografiju (%s) lokalno i u cloud ?"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-       <item quantity="other">"Избрисати видео записе (%s) локално и у cloud ?"</item>
-        <item quantity="one">"Избрисати видео запис (%s) локално и у cloud ?"</item>
+       <item quantity="other">"Izbrisati video zapise (%s) lokalno i u cloud ?"</item>
+        <item quantity="one">"Izbrisati video zapis (%s) lokalno i u cloud ?"</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">"Одабрано: %1$d"</item>
-        <item quantity="zero">"Одабрано: %1$d"</item>
-        <item quantity="one">"Одабрано: %1$d"</item>
+        <item quantity="other">"Odabrano: %1$d"</item>
+        <item quantity="zero">"Odabrano: %1$d"</item>
+        <item quantity="one">"Odabrano: %1$d"</item>
     </plurals>
     <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>
@@ -35,24 +35,24 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="how_many_pics">
-        <item quantity="other">Бр. слика: %1$d</item>
-        <item quantity="one">%d слика</item>
+        <item quantity="other">Br. slika: %1$d</item>
+        <item quantity="one">%d slika</item>
     </plurals>
     <plurals name="how_many_videos">
-        <item quantity="other">Бр. видео записа: %d</item>
-        <item quantity="one">%d видео запис</item>
+        <item quantity="other">Br. video zapisa: %d</item>
+        <item quantity="one">%d video zapis</item>
     </plurals>
     <plurals name="how_many_sub_folders">
-        <item quantity="other">Бр. мапа: %d</item>
-        <item quantity="one">%d мапа</item>
+        <item quantity="other">Br. mapa: %d</item>
+        <item quantity="one">%d mapa</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"Немате допуштење за брисање ових датотека: %d."</item>
-        <item quantity="one">"Немате допуштење за брисање ове датотека."</item>
+        <item quantity="other">"Nemate dopuštenje za brisanje ovih datoteka: %d."</item>
+        <item quantity="one">"Nemate dopuštenje za brisanje ove datoteka."</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Можете одабрати оволико ставки: %d</item>
-        <item quantity="one">Можете одабрати %d ставку</item>
+        <item quantity="other">Možete odabrati ovoliko stavki: %d</item>
+        <item quantity="one">Možete odabrati %d stavku</item>
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">%1$d</item>
@@ -60,8 +60,8 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="number_of_items">
-        <item quantity="other">Бр. ставка: %1$d</item>
-        <item quantity="zero">Бр. ставка: %1$d</item>
-        <item quantity="one">%1$d ставка</item>
+        <item quantity="other">Br. stavka: %1$d</item>
+        <item quantity="zero">Br. stavka: %1$d</item>
+        <item quantity="one">%1$d stavka</item>
     </plurals>
 </resources>

@@ -17,12 +17,12 @@
         <item>,</item>
     </string-array>
     <string-array name="record_scenes_entries">
-        <item>Музика</item>
-        <item>Глас</item>
+        <item>Muzika</item>
+        <item>Glas</item>
     </string-array>
     <string-array name="interview_record_scenes_entries">
-        <item>Музика</item>
-        <item>Глас</item>
-        <item>Интервју</item>
+        <item>Muzika</item>
+        <item>Glas</item>
+        <item>Intervju</item>
     </string-array>
 </resources>

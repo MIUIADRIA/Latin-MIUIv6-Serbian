@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="otherLabels">
-        <item>Организација</item>
-        <item>Напомена</item>
+        <item>Organizacija</item>
+        <item>Napomena</item>
     </string-array>
 </resources>
